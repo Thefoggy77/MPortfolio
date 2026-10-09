@@ -26,7 +26,7 @@ Development board designed in KiCad.
 - Schematic, PCB layout and BOM included
 
 ## Tools
-KiCad, EasyEDA, Autodesk Fusion 3D, Arduino IDE, QMK/VIA, Wokwi, 
+KiCad, EasyEDA, Autodesk Fusion 3D, Arduino IDE, QMK/VIA, Wokwi.
 
 ## Contact
 - Student email: mohamedamine-mansouri@etu.usthb.dz
